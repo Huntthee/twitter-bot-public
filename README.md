@@ -1,27 +1,25 @@
-## Twitter Retweet Bot
+## :bird: Twitter Retweet Bot :robot:
 **Mike Allison &copy; 2021**
 
-A simple little Twitter bot which will watch for a specified hashtag, then like and retweet those Tweets!
-
-This bot will eventually have many twitter bot brethren focused on different tasks, as well as be able to do more itself.
+A simple little Twitter bot which will watch for a specified hashtag, and retweet those Tweets!
 
 ---
 
-## Progress Roadmap 
+## Progress Roadmap :bus:
 | Date | Project |
 | --- | --- |
-| 04/13/21 | The Bot is Born! |
+| 04/13/21 | The Bot is Born! :baby: |
+| 06/2021 | 400 Followers gained passively on Twitter! :partying_face: |
 
 ---
 
-To-Do List 
+**To-Do List:** :heavy_check_mark:
+- [x] Track & Retweet #javascript posts
 - [x] Live Hosting on Heroku
-- [ ] Listen for more hashtags
-- [ ] Reply to specific keywords with a link
 
 ---
 
-## Attributions
+## Attributions :loudspeaker:
 
 - The base code to get bring the bot into being came from [Dzone.com](https://dzone.com/articles/how-to-build-a-twitter-bot-with-nodejs)
 - And the fix for the twitter ${PORT} bug of course came from [Stackoverflow](https://stackoverflow.com/questions/31092538/heroku-node-js-error-r10-boot-timeout-web-process-failed-to-bind-to-port-w/36604249#36604249)
